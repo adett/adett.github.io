@@ -27,17 +27,16 @@ h1 {
     font-family: "magyar script basic";
     font-size: 105px;
     text-align: center;
+    margin: 10px;
 }
-p {
+.content {
     color: rgba(7, 18, 7, 0.857);
     font-size: 50px;
     text-align: initial;
     text-transform: uppercase;
     line-height: 45px;
     font-weight: lighter;
-    
 }
-
 img {
     width: 600px;
 }
@@ -57,5 +56,53 @@ ul {
     color: black;
     font-family: "magyar script basic";
     text-align: center;
-font-size: 35px;
+font-size: 35px;}
+#szoveg {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+p {
+    color: rgba(255, 153, 0, 0.836);
+    font-size: 40px;
+    text-align: center;
+    font-family:"magyar script basic";}
+.hamburger {
+    color: darkgreen;
+    font-size: 40px;
+    text-align: center;
+   
+}
+.kerdes
+{
+    color: darkolivegreen;
+        font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+.divleiras {
+
+    background-color: darkorange;
+    border: solid; black,
+    padding: 10px 0 0 ;
+    box-shadow: 0 0 7px;
+}
+.divleiras1 {
+    background-color: green;
+    border: solid; black;
+    padding: 10px 0 0 0;
+    box-shadow: 3 3 7px;
+
+}
+.eloszo {
+    border: solid; black;
+    padding: 10px 0 0 0;
+    box-shadow: 0 0 7px;
+
+}
+.kep
+{
+    border: solid; black;
+    box-shadow: 0 0 5px;
 }
